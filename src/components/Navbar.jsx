@@ -73,7 +73,7 @@ const Nav = styled.nav`
     justify-content: space-between;
     align-items: center;
     text-transform: uppercase;
-    padding: 20px 0 0 0;
+    padding: 30px 0 0 0;
 
 
 }

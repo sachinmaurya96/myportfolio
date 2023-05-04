@@ -9,6 +9,7 @@ import { GlobalStyle } from "./GlobalStyle";
 import Error from "./Error";
 import GoToTop from "./components/GoToTop";
 import Navbar from "./components/Navbar";
+import Resume from "./Resume";
 
 const App = () => {
   const theme = {
@@ -43,6 +44,7 @@ const App = () => {
           <Route path="/about" element={<About />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/resume" element={<Resume />} />
           <Route path="*" element={<Error />} />
         </Routes>
 

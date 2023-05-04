@@ -8,7 +8,7 @@ const About = () => {
 
   useEffect(() => udpateAboutPage(), []);
 
-  return <HeroSection description={aboutdata}/>;
+  return <HeroSection description={aboutdata} link="/contact" btnName="hire me"/>;
 };
 
 export default About;

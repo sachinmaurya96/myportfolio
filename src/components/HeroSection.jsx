@@ -13,6 +13,8 @@ AOS.init({
 const HeroSection = (props) => {
   const { name } = useGlobalContext();
 
+  
+
   return (
     <Wrapper>
       <div className="container grid grid-two-column">
@@ -24,9 +26,9 @@ const HeroSection = (props) => {
             <br />
             {props.description}
           </p>
-          <NavLink to="/contact">
+          <NavLink to={props.link}>
           <Button className="btn hireme-btn">
-            hire me 
+            {props.btnName} 
           </Button>
           </NavLink>
         </div>

@@ -38,5 +38,7 @@ let projectdata = [
 
 let homeproject = projectdata.filter((elem,index)=>{
   return index < 3
-})
-export { aboutdata , projectdata,homeproject};
+});
+
+let resume = "https://drive.google.com/uc?export=download&id=110DiHg6o9HZqmfeqEh1V104Lgz8cDO6L"
+export { aboutdata , projectdata,homeproject,resume};
