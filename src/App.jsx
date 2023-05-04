@@ -49,7 +49,6 @@ const App = () => {
           <Route path="/resume" element={<Resume />} />
           <Route path="*" element={<Error />} />
         </Routes>
-
         <Footer />
       </BrowserRouter>
     </ThemeProvider>

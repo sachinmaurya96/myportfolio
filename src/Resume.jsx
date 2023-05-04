@@ -145,28 +145,28 @@ function Resume() {
                   <div class="title">projects</div>
                   <ul>
                     <li>
-                      <a href="https://sachinmaurya96.github.io/">1. Portfolio-Web</a>
+                      <a href="https://sm-portfolio-web.netlify.app/contact" target="_blank">1. Portfolio-Web</a>
                     </li>
                     <li>
-                      <a href="https://sachinmaurya96.github.io/Apple-india/">2. Apple india ui clone</a>
+                      <a href="https://sachinmaurya96.github.io/Apple-india/" target="_blank">2. Apple india ui clone</a>
                     </li>
                     <li>
-                      <a href="https://sachinmaurya96.github.io/google-digital-garage/">3. google digital garage clone</a>
+                      <a href="https://sachinmaurya96.github.io/google-digital-garage/" target="_blank">3. google digital garage clone</a>
                     </li>
                     <li>
-                      <a href="https://sachinmaurya96.github.io/findwork/">4. a mini freelance web ui</a>
+                      <a href="https://sachinmaurya96.github.io/findwork/" target="_blank">4. a mini freelance web ui</a>
                     </li>
                     <li>
-                      <a href="https://smmovies.netlify.app/">5. Movieapp</a>
+                      <a href="https://smmovies.netlify.app/" target="_blank">5. Movieapp</a>
                     </li>
                     <li>
-                      <a href="https://sachinmaurya96.github.io/Textutils/">6. TextUtils</a>
+                      <a href="https://sachinmaurya96.github.io/Textutils/" target="_blank">6. TextUtils</a>
                     </li>
                     <li>
-                      <a href="https://github.com/sachinmaurya96/weather-app-using-only-expressjs">7. Weather App</a>
+                      <a href="https://github.com/sachinmaurya96/weather-app-using-only-expressjs" target="_blank">7. Weather App</a>
                     </li>
                     <li>
-                      <a href="https://sachinmaurya96.github.io/reactTodolist/">8. Todo list</a>
+                      <a href="https://sachinmaurya96.github.io/reactTodolist/" target="_blank">8. Todo list</a>
                     </li>
                   </ul>
                 </div>
@@ -183,7 +183,7 @@ function Resume() {
           </div>
         </div>
         <div className="btn">
-            <a href="#"><Button> <FaDownload/> Download resume</Button></a>
+            <a download="https://drive.google.com/uc?export=download&id=110DiHg6o9HZqmfeqEh1V104Lgz8cDO6L"><Button> <FaDownload/> Download resume</Button></a>
         </div>
       </Wrapper>
     </>
