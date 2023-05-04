@@ -12,6 +12,7 @@ import Navbar from "./components/Navbar";
 import Resume from "./Resume";
 
 const App = () => {
+ 
   const theme = {
     colors: {
       heading: "rgb(24 24 29)",
