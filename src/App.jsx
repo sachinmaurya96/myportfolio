@@ -12,6 +12,7 @@ import Navbar from "./components/Navbar";
 import Resume from "./Resume";
 
 const App = () => {
+
  
   const theme = {
     colors: {
@@ -38,7 +39,7 @@ const App = () => {
     <ThemeProvider theme={theme}>
       <GlobalStyle />
       <GoToTop />
-      <BrowserRouter basename="/sachinmaurya96.github.io">
+      <BrowserRouter>
        <Navbar/>
         <Routes>
           <Route path="/" element={<Home />} />
