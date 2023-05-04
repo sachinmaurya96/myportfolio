@@ -39,7 +39,7 @@ const App = () => {
     <ThemeProvider theme={theme}>
       <GlobalStyle />
       <GoToTop />
-      <BrowserRouter>
+      <BrowserRouter basename="/sachinmaurya96.github.io">
        <Navbar/>
         <Routes>
           <Route path="/" element={<Home />} />
