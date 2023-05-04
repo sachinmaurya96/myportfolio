@@ -183,7 +183,7 @@ function Resume() {
           </div>
         </div>
         <div className="btn">
-            <a download="https://drive.google.com/uc?export=download&id=110DiHg6o9HZqmfeqEh1V104Lgz8cDO6L"><Button> <FaDownload/> Download resume</Button></a>
+            <a href="https://drive.google.com/uc?export=download&id=110DiHg6o9HZqmfeqEh1V104Lgz8cDO6L"><Button> <FaDownload/> Download resume</Button></a>
         </div>
       </Wrapper>
     </>
