@@ -25,7 +25,7 @@ function Resume() {
               </div>
             </div>
             <div class="content">
-              <div class="left">
+              <div class="left" data-aos='fade-right'>
                 <div class="contact">
                   <div class="title">contact</div>
                   <ul>
@@ -105,7 +105,7 @@ function Resume() {
                   </ul>
                 </div>
               </div>
-              <div class="right">
+              <div class="right" data-aos='fade-left'>
                 <div class="profile">
                   <div class="title">profile</div>
                   <ul>
