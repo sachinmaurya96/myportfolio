@@ -112,6 +112,8 @@ const Nav = styled.nav`
 @media(max-width:426px){
     .container {
    width: 100%;
+   margin:0;
+   padding:0;
    
     
 }
@@ -121,7 +123,7 @@ const Nav = styled.nav`
 }
 .links{
     position: absolute;
-    left: -100%;
+    left: -110%;
     top: 55px;
     flex-direction: column;
     width: 100%;

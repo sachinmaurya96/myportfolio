@@ -9,8 +9,7 @@ import { homeproject ,projectdata} from "./components/Reusable";
 AOS.init(
   {
     duration: 1000,
-    offset:200
-  }
+    offset:100 }
 );
 
 

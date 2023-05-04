@@ -33,6 +33,30 @@ let projectdata = [
     gitlink:'https://github.com/sachinmaurya96/movieapp',
     Image: "https://i.postimg.cc/7PgtHppM/Screenshot-2023-05-02-181218.png" ,
     delay:'600'
+  },
+  { 
+    name: "Animated portfolio website", 
+    description: "A multipage portfolio website using HTML, CSS and React.js",
+    link: "https://sachinmaurya96.github.io/",
+    gitlink:'https://github.com/sachinmaurya96/sachinmaurya96.github.io',
+    Image: "https://i.postimg.cc/05FRr38W/Screenshot-2023-05-04-083243.png" ,
+    delay:'0'
+  },
+  { 
+    name: "TodoList", 
+    description: "Todo list with complete CRUD operation in react js",
+    link: "https://sachinmaurya96.github.io/reactTodolist/",
+    gitlink:'https://github.com/sachinmaurya96/reactTodolist',
+    Image: "https://i.postimg.cc/d1HctwFW/Screenshot-2023-05-04-083432.png" ,
+    delay:'0'
+  },
+  { 
+    name: "TextUtils", 
+    description: "Mini text editor app using reactjs",
+    link: "https://sachinmaurya96.github.io/Textutils/",
+    gitlink:'https://github.com/sachinmaurya96/Textutils',
+    Image: "https://i.postimg.cc/rwcFKyWj/Screenshot-2023-05-04-083335.png" ,
+    delay:'0'
   }
 ];
 
