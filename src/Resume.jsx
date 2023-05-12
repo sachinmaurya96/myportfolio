@@ -98,7 +98,7 @@ function Resume() {
                   </ul>
                 </div>
               </div>
-              <div class="right" data-aos='fade-left'>
+              <div class="right">
                 <div class="profile">
                   <div class="title">profile</div>
                   <ul>
