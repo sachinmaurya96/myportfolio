@@ -2,14 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { FaLinkedin,FaGithubSquare,FaPhone,FaEnvelope,FaLocationArrow , FaDownload} from "react-icons/fa";
 import { Button } from "../src/styles/Button";
-import AOS from 'aos';
-import 'aos/dist/aos.css';
 
-AOS.init(
-  {
-    duration: 1000
-  }
-);
 
 function Resume() {
   return (
@@ -18,14 +11,14 @@ function Resume() {
         <div class="container-fluid">
           <div class="pdf">
             <div class="header">
-              <img src="https://i.postimg.cc/NF3yfTCJ/my2.jpg" alt="heroimg" data-aos='fade-right'/>
-              <div class="heading" data-aos='fade-left'>
+              <img src="https://i.postimg.cc/NF3yfTCJ/my2.jpg" alt="heroimg" />
+              <div class="heading" >
                 Sachin Maurya
                 <p class="subheading">Front-end web developer</p>
               </div>
             </div>
             <div class="content">
-              <div class="left" data-aos='fade-right'>
+              <div class="left" >
                 <div class="contact">
                   <div class="title">contact</div>
                   <ul>
