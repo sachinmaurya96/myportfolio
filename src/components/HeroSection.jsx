@@ -37,7 +37,7 @@ const HeroSection = (props) => {
         <div className="section-hero-image" data-aos="fade-left">
           <picture>
             <img
-              src="https://www.signinonline.com/images/features-img-1.png"
+              src="https://i.postimg.cc/KzqCKG0H/Hire-Web-Developers.png"
               alt="hero image"
               className="hero-img "
             />
